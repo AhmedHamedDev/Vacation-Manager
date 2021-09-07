@@ -1,0 +1,73 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a routerLink="/account/login" class="navbar-brand">
+    <img src="../../../../assets/images/EFGLogo.png" class="d-inline-block align-top" alt="">
+  </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav"
+    aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li *ngIf="abilities?.includes(Abilities.Get_Current_User_CheckIns)" class="nav-item" routerLinkActive="active">
+        <a class="nav-link" routerLink="/user/checkins" >
+          <fa-icon class="cogIcon green" [icon]="faTable" slot="start"></fa-icon>
+          Checkins
+        </a>
+      </li>
+
+      <li *ngIf="abilities?.includes(Abilities.Get_Current_User_Vacations)" class="nav-item" routerLinkActive="active">
+        <a class="nav-link" routerLink="/user/vacations">
+          <fa-icon class="cogIcon green" [icon]="faTable" slot="start"></fa-icon>
+          Vacations
+        </a>
+      </li>
+ 
+      <li *ngIf="abilities?.includes(Abilities.Get_All_Other_Users)" class="nav-item" routerLinkActive="active">
+        <a class="nav-link" routerLink="/admin/users">
+          <fa-icon class="cogIcon green" [icon]="faTable" slot="start"></fa-icon>
+          Users
+        </a>
+      </li>
+
+      <li *ngIf="abilities?.includes(Abilities.Get_Holidays)" class="nav-item" routerLinkActive="active">
+        <a class="nav-link" routerLink="/admin/holidays">
+          <fa-icon class="cogIcon green" [icon]="faTable" slot="start"></fa-icon>
+          Holidays
+        </a>
+      </li>
+
+      
+      <li *ngIf="abilities?.includes(Abilities.Current_User_CheckIns_Calculations)" class="nav-item" routerLinkActive="active">
+        <a class="nav-link" routerLink="/user/calculations">
+          <fa-icon class="cogIcon green" [icon]="faTable" slot="start"></fa-icon>
+          Calculations
+        </a>
+      </li>
+    </ul>
+
+
+    <ul class="navbar-nav ml-auto nav-flex-icons">
+      <li *ngIf="abilities?.includes(Abilities.Change_Password) || abilities?.includes(Abilities.Logout)" class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+          aria-haspopup="true" aria-expanded="false">
+          {{userName}}
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a *ngIf="abilities?.includes(Abilities.Change_Password)" routerLink="/account/change-password" class="nav-link">
+            Change Password
+          </a>
+          <a *ngIf="abilities?.includes(Abilities.Get_Roles)" routerLink="/admin/roles" class="nav-link">
+            Roles
+          </a>
+          <div class="dropdown-divider"></div>
+          <a *ngIf="abilities?.includes(Abilities.Logout)" (click)="logout()" class="nav-link">
+            LogOut
+          </a>
+        </div>
+      </li>
+
+    </ul>
+
+  </div>
+</nav>
+

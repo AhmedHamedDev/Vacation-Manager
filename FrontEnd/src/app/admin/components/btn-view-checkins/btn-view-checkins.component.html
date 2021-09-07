@@ -1,0 +1,3 @@
+<button *ngIf="abilities?.includes(Abilities.Get_User_ChechIns)" class="btn btn-primary" style="width:150px; margin-right: 10px;" (click)="viewUserCheckins()">View Checkins</button>
+<button *ngIf="abilities?.includes(Abilities.Get_User_Vacations)" class="btn btn-success" style="width:150px; margin-right: 10px;" (click)="viewUserVacations()">View Vacations</button>
+<button *ngIf="abilities?.includes(Abilities.User_CheckIns_Calculations)" class="btn btn-danger" style="width:150px; margin-right: 10px;" (click)="viewUserCalculations()">View Calculations</button>

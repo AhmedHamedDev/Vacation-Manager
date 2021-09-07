@@ -1,0 +1,60 @@
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEyeBackEnd\DAL\bin\Debug\netstandard2.1\DAL.deps.json
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEyeBackEnd\DAL\bin\Debug\netstandard2.1\DAL.dll
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEyeBackEnd\DAL\bin\Debug\netstandard2.1\Models.dll
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEyeBackEnd\DAL\bin\Debug\netstandard2.1\Models.pdb
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEyeBackEnd\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfoInputs.cache
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEyeBackEnd\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfo.cs
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEyeBackEnd\DAL\obj\Debug\netstandard2.1\DAL.csproj.CopyComplete
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEyeBackEnd\DAL\bin\Debug\netstandard2.1\DAL.pdb
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEyeBackEnd\DAL\obj\Debug\netstandard2.1\DAL.csproj.CoreCompileInputs.cache
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEyeBackEnd\DAL\obj\Debug\netstandard2.1\DAL.dll
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEyeBackEnd\DAL\obj\Debug\netstandard2.1\DAL.pdb
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEyeBackEnd\DAL\obj\Debug\netstandard2.1\DAL.csprojAssemblyReference.cache
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEye\BackEnd\DAL\bin\Debug\netstandard2.1\DAL.deps.json
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEye\BackEnd\DAL\bin\Debug\netstandard2.1\DAL.dll
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEye\BackEnd\DAL\bin\Debug\netstandard2.1\DAL.pdb
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEye\BackEnd\DAL\bin\Debug\netstandard2.1\Models.dll
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEye\BackEnd\DAL\bin\Debug\netstandard2.1\Models.pdb
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEye\BackEnd\DAL\obj\Debug\netstandard2.1\DAL.csprojAssemblyReference.cache
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEye\BackEnd\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfoInputs.cache
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEye\BackEnd\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfo.cs
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEye\BackEnd\DAL\obj\Debug\netstandard2.1\DAL.csproj.CoreCompileInputs.cache
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEye\BackEnd\DAL\obj\Debug\netstandard2.1\DAL.csproj.CopyComplete
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEye\BackEnd\DAL\obj\Debug\netstandard2.1\DAL.dll
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEye\BackEnd\DAL\obj\Debug\netstandard2.1\DAL.pdb
+D:\Development_Applications\Dev\BM_P2\EFG.EagleEye\BackEnd\DAL\bin\Debug\netstandard2.1\DAL.deps.json
+D:\Development_Applications\Dev\BM_P2\EFG.EagleEye\BackEnd\DAL\bin\Debug\netstandard2.1\DAL.dll
+D:\Development_Applications\Dev\BM_P2\EFG.EagleEye\BackEnd\DAL\bin\Debug\netstandard2.1\DAL.pdb
+D:\Development_Applications\Dev\BM_P2\EFG.EagleEye\BackEnd\DAL\bin\Debug\netstandard2.1\Models.dll
+D:\Development_Applications\Dev\BM_P2\EFG.EagleEye\BackEnd\DAL\bin\Debug\netstandard2.1\Models.pdb
+D:\Development_Applications\Dev\BM_P2\EFG.EagleEye\BackEnd\DAL\obj\Debug\netstandard2.1\DAL.csprojAssemblyReference.cache
+D:\Development_Applications\Dev\BM_P2\EFG.EagleEye\BackEnd\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfoInputs.cache
+D:\Development_Applications\Dev\BM_P2\EFG.EagleEye\BackEnd\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfo.cs
+D:\Development_Applications\Dev\BM_P2\EFG.EagleEye\BackEnd\DAL\obj\Debug\netstandard2.1\DAL.csproj.CopyComplete
+D:\Development_Applications\Dev\BM_P2\EFG.EagleEye\BackEnd\DAL\obj\Debug\netstandard2.1\DAL.dll
+D:\Development_Applications\Dev\BM_P2\EFG.EagleEye\BackEnd\DAL\obj\Debug\netstandard2.1\DAL.pdb
+D:\Development_Applications\Dev\BM_P2\EFG.EagleEye\BackEnd\DAL\obj\Debug\netstandard2.1\DAL.csproj.CoreCompileInputs.cache
+D:\Development_Applications\Dev\BM_P2\EFG.VacationManager\BackEnd\DAL\bin\Debug\netstandard2.1\DAL.deps.json
+D:\Development_Applications\Dev\BM_P2\EFG.VacationManager\BackEnd\DAL\bin\Debug\netstandard2.1\DAL.dll
+D:\Development_Applications\Dev\BM_P2\EFG.VacationManager\BackEnd\DAL\bin\Debug\netstandard2.1\DAL.pdb
+D:\Development_Applications\Dev\BM_P2\EFG.VacationManager\BackEnd\DAL\bin\Debug\netstandard2.1\Models.dll
+D:\Development_Applications\Dev\BM_P2\EFG.VacationManager\BackEnd\DAL\bin\Debug\netstandard2.1\Models.pdb
+D:\Development_Applications\Dev\BM_P2\EFG.VacationManager\BackEnd\DAL\obj\Debug\netstandard2.1\DAL.csprojAssemblyReference.cache
+D:\Development_Applications\Dev\BM_P2\EFG.VacationManager\BackEnd\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfoInputs.cache
+D:\Development_Applications\Dev\BM_P2\EFG.VacationManager\BackEnd\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfo.cs
+D:\Development_Applications\Dev\BM_P2\EFG.VacationManager\BackEnd\DAL\obj\Debug\netstandard2.1\DAL.csproj.CoreCompileInputs.cache
+D:\Development_Applications\Dev\BM_P2\EFG.VacationManager\BackEnd\DAL\obj\Debug\netstandard2.1\DAL.csproj.CopyComplete
+D:\Development_Applications\Dev\BM_P2\EFG.VacationManager\BackEnd\DAL\obj\Debug\netstandard2.1\DAL.dll
+D:\Development_Applications\Dev\BM_P2\EFG.VacationManager\BackEnd\DAL\obj\Debug\netstandard2.1\DAL.pdb
+D:\Vacation Manager\Vacation\BackEnd\DAL\bin\Debug\netstandard2.1\DAL.deps.json
+D:\Vacation Manager\Vacation\BackEnd\DAL\bin\Debug\netstandard2.1\DAL.dll
+D:\Vacation Manager\Vacation\BackEnd\DAL\bin\Debug\netstandard2.1\DAL.pdb
+D:\Vacation Manager\Vacation\BackEnd\DAL\bin\Debug\netstandard2.1\Models.dll
+D:\Vacation Manager\Vacation\BackEnd\DAL\bin\Debug\netstandard2.1\Models.pdb
+D:\Vacation Manager\Vacation\BackEnd\DAL\obj\Debug\netstandard2.1\DAL.csprojAssemblyReference.cache
+D:\Vacation Manager\Vacation\BackEnd\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfoInputs.cache
+D:\Vacation Manager\Vacation\BackEnd\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfo.cs
+D:\Vacation Manager\Vacation\BackEnd\DAL\obj\Debug\netstandard2.1\DAL.csproj.CoreCompileInputs.cache
+D:\Vacation Manager\Vacation\BackEnd\DAL\obj\Debug\netstandard2.1\DAL.csproj.CopyComplete
+D:\Vacation Manager\Vacation\BackEnd\DAL\obj\Debug\netstandard2.1\DAL.dll
+D:\Vacation Manager\Vacation\BackEnd\DAL\obj\Debug\netstandard2.1\DAL.pdb

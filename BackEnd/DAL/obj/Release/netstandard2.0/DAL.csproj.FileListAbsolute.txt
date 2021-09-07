@@ -1,0 +1,12 @@
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEyeBackEnd\DAL\bin\Release\netstandard2.0\DAL.deps.json
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEyeBackEnd\DAL\bin\Release\netstandard2.0\DAL.dll
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEyeBackEnd\DAL\bin\Release\netstandard2.0\DAL.pdb
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEyeBackEnd\DAL\bin\Release\netstandard2.0\Models.dll
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEyeBackEnd\DAL\bin\Release\netstandard2.0\Models.pdb
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEyeBackEnd\DAL\obj\Release\netstandard2.0\DAL.csprojAssemblyReference.cache
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEyeBackEnd\DAL\obj\Release\netstandard2.0\DAL.AssemblyInfoInputs.cache
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEyeBackEnd\DAL\obj\Release\netstandard2.0\DAL.AssemblyInfo.cs
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEyeBackEnd\DAL\obj\Release\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEyeBackEnd\DAL\obj\Release\netstandard2.0\DAL.csproj.CopyComplete
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEyeBackEnd\DAL\obj\Release\netstandard2.0\DAL.dll
+D:\Development_Applications\Dev\BM_P2\EagleEye\EagleEyeBackEnd\DAL\obj\Release\netstandard2.0\DAL.pdb
