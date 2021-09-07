@@ -1,0 +1,39 @@
+<ng-template #content let-modal>
+    <div class="modal-header">
+        <h4 class="modal-title" id="modal-basic-title">Add Vacation</h4>
+        <button type="button" class="close" aria-label="Close" (click)="modal.dismiss('Cross click')">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+    <div class="modal-body">
+        <form [formGroup]="vacationForm">
+            <div class="form-group">
+                <label for="description">Description</label>
+                <div class="input-group">
+                    <input formControlName="description" type="text" id="description" class="form-control" placeholder="description" name="description">
+                </div>
+                <p style="color: red;" *ngIf="description.touched && description.hasError('required')">
+                    Description is <strong>required</strong>
+                </p>
+            </div>
+
+            <div class="form-group">
+                <label for="vacationDate">Vacation Date</label>
+                <div class="input-group">
+                    <input  formControlName="vacationDate" id="vacationDate" name="vacationDate" class="form-control" placeholder="yyyy-mm-dd" name="dp"
+                        ngbDatepicker #dp="ngbDatepicker">
+                    <div class="input-group-append">
+                        <button class="btn btn-outline-secondary calendar" (click)="dp.toggle()" type="button"></button>
+                    </div>
+                </div>
+                <p style="color: red;" *ngIf="vacationDate.touched && vacationDate.hasError('required')">
+                    Date is <strong>required</strong>
+                </p>
+            </div>
+        </form>
+    </div>
+    <div class="modal-footer">
+        <button type="button" [disabled]="!vacationForm.valid || toggle" class="btn btn-outline-dark"
+            (click)="addVacation()">{{toggle ? 'Loadding...':'Save'}}</button>
+    </div>
+</ng-template>

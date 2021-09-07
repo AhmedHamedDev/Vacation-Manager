@@ -1,0 +1,26 @@
+<ng-template #content let-modal>
+    <div class="modal-header">
+        <h4 class="modal-title" id="modal-basic-title">Add Role</h4>
+        <button type="button" class="close" aria-label="Close" (click)="modal.dismiss('Cross click')">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+    <div class="modal-body">
+        <form [formGroup]="roleForm">
+            <div class="form-group">
+                <label for="name">Role Name</label>
+                <div class="input-group">
+                    <input formControlName="name" type="text" id="name" class="form-control" placeholder="name" name="name">
+                </div>
+                <p style="color: red;" *ngIf="name.touched && name.hasError('required')">
+                    Name is <strong>required</strong>
+                </p>
+            </div>
+
+        </form>
+    </div>
+    <div class="modal-footer">
+        <button type="button" [disabled]="!roleForm.valid || toggle" class="btn btn-outline-dark"
+            (click)="addRole()">{{toggle ? 'Loadding...':'Save'}}</button>
+    </div>
+</ng-template>

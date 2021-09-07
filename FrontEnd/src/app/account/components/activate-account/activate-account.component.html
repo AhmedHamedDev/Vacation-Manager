@@ -1,0 +1,14 @@
+<div id="notfound">
+    <div *ngIf="showSuccessMessage == true" class="notfound">
+        <h2>Account Activated Successfully</h2>
+        <p>Welcome to Vacation Manager, Please Login</p>
+        <a routerLink="/account/login">Login page</a>
+    </div>
+
+    <div *ngIf="showSuccessMessage == false" class="notfound">
+        <h2>Something is wrong</h2>
+        <p>please contact IT</p>
+        <a routerLink="/account/login">Login page</a>
+    </div>
+</div>
+

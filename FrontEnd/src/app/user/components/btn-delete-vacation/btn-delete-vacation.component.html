@@ -1,0 +1,4 @@
+<button *ngIf="abilities?.includes(Abilities.Delete_Vacation) && (this.params.data.status == 'Pending' || this.params.data.status == 'Seen')" class="btn btn-danger" style="width:80px; margin-right: 10px;" (click)="deleteVacation()">Delete</button>
+<button *ngIf="abilities?.includes(Abilities.Change_Vacation_Status) && (this.params.data.status == 'Pending' || this.params.data.status == 'Seen')" class="btn btn-success" style="width:110px; margin-right: 10px;" (click)="approveVacation()">Approve</button>
+<button *ngIf="abilities?.includes(Abilities.Change_Vacation_Status) && (this.params.data.status == 'Pending' || this.params.data.status == 'Seen')" class="btn btn-danger" style="width:110px; margin-right: 10px;" (click)="denyVacation()">Deny</button>
+

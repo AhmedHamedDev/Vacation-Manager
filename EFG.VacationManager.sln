@@ -1,0 +1,92 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BackEnd", "BackEnd", "{FE15C87C-9327-4F56-86F6-0929B89012BC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrontEnd", "FrontEnd", "{FFAE9A4C-2091-457C-A80F-B4E8C049FC6E}"
+	ProjectSection(SolutionItems) = preProject
+		FrontEnd\.editorconfig = FrontEnd\.editorconfig
+		FrontEnd\.gitignore = FrontEnd\.gitignore
+		FrontEnd\angular.json = FrontEnd\angular.json
+		FrontEnd\browserslist = FrontEnd\browserslist
+		FrontEnd\ignite-ui-cli.json = FrontEnd\ignite-ui-cli.json
+		FrontEnd\karma.conf.js = FrontEnd\karma.conf.js
+		FrontEnd\package-lock.json = FrontEnd\package-lock.json
+		FrontEnd\package.json = FrontEnd\package.json
+		FrontEnd\README.md = FrontEnd\README.md
+		FrontEnd\tsconfig.app.json = FrontEnd\tsconfig.app.json
+		FrontEnd\tsconfig.json = FrontEnd\tsconfig.json
+		FrontEnd\tsconfig.spec.json = FrontEnd\tsconfig.spec.json
+		FrontEnd\tslint.json = FrontEnd\tslint.json
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Models", "BackEnd\Models\Models.csproj", "{A58F06B7-AF54-49A0-B70E-ED339588B12A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "BackEnd\DAL\DAL.csproj", "{D98D4228-D9EE-4038-A1F6-D47F759AB0DC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VacationManagerBackEnd", "BackEnd\QueuesGeneratorBackEnd\VacationManagerBackEnd.csproj", "{D602B7A3-D5FB-4F25-BA0E-E7624E40839D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{F89E91CE-DC39-43D7-A705-7A4E931E8A0F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Utilities", "Utilities\Utilities.csproj", "{0D6255A8-8BAE-4073-B77C-545CDA0B54A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A58F06B7-AF54-49A0-B70E-ED339588B12A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A58F06B7-AF54-49A0-B70E-ED339588B12A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A58F06B7-AF54-49A0-B70E-ED339588B12A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A58F06B7-AF54-49A0-B70E-ED339588B12A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D98D4228-D9EE-4038-A1F6-D47F759AB0DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D98D4228-D9EE-4038-A1F6-D47F759AB0DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D98D4228-D9EE-4038-A1F6-D47F759AB0DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D98D4228-D9EE-4038-A1F6-D47F759AB0DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D602B7A3-D5FB-4F25-BA0E-E7624E40839D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D602B7A3-D5FB-4F25-BA0E-E7624E40839D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D602B7A3-D5FB-4F25-BA0E-E7624E40839D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D602B7A3-D5FB-4F25-BA0E-E7624E40839D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D6255A8-8BAE-4073-B77C-545CDA0B54A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D6255A8-8BAE-4073-B77C-545CDA0B54A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D6255A8-8BAE-4073-B77C-545CDA0B54A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D6255A8-8BAE-4073-B77C-545CDA0B54A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A58F06B7-AF54-49A0-B70E-ED339588B12A} = {FE15C87C-9327-4F56-86F6-0929B89012BC}
+		{D98D4228-D9EE-4038-A1F6-D47F759AB0DC} = {FE15C87C-9327-4F56-86F6-0929B89012BC}
+		{D602B7A3-D5FB-4F25-BA0E-E7624E40839D} = {FE15C87C-9327-4F56-86F6-0929B89012BC}
+		{0D6255A8-8BAE-4073-B77C-545CDA0B54A0} = {F89E91CE-DC39-43D7-A705-7A4E931E8A0F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21F04BB6-120E-42E5-9128-314C04395561}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://efg-vsts01:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BackEnd\\DAL\\DAL.csproj
+		SccProjectTopLevelParentUniqueName1 = EFG.VacationManager.sln
+		SccProjectName1 = BackEnd/DAL
+		SccLocalPath1 = BackEnd\\DAL
+		SccProjectUniqueName2 = BackEnd\\Models\\Models.csproj
+		SccProjectTopLevelParentUniqueName2 = EFG.VacationManager.sln
+		SccProjectName2 = BackEnd/Models
+		SccLocalPath2 = BackEnd\\Models
+		SccProjectUniqueName3 = BackEnd\\QueuesGeneratorBackEnd\\VacationManagerBackEnd.csproj
+		SccProjectTopLevelParentUniqueName3 = EFG.VacationManager.sln
+		SccProjectName3 = BackEnd/QueuesGeneratorBackEnd
+		SccLocalPath3 = BackEnd\\QueuesGeneratorBackEnd
+		SccProjectUniqueName4 = Utilities\\Utilities.csproj
+		SccProjectTopLevelParentUniqueName4 = EFG.VacationManager.sln
+		SccProjectName4 = Utilities
+		SccLocalPath4 = Utilities
+	EndGlobalSection
+EndGlobal

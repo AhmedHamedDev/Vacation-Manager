@@ -1,0 +1,150 @@
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\QueuesGeneratorBackEnd.exe
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\obj\Debug\netcoreapp3.1\QueuesGeneratorBackEnd.csprojAssemblyReference.cache
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\obj\Debug\netcoreapp3.1\QueuesGeneratorBackEnd.AssemblyInfoInputs.cache
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\obj\Debug\netcoreapp3.1\QueuesGeneratorBackEnd.AssemblyInfo.cs
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\obj\Debug\netcoreapp3.1\QueuesGeneratorBackEnd.RazorTargetAssemblyInfo.cache
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\obj\Debug\netcoreapp3.1\staticwebassets\QueuesGeneratorBackEnd.StaticWebAssets.Manifest.cache
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\obj\Debug\netcoreapp3.1\staticwebassets\QueuesGeneratorBackEnd.StaticWebAssets.xml
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\QueuesGeneratorBackEnd.deps.json
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\QueuesGeneratorBackEnd.runtimeconfig.json
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\QueuesGeneratorBackEnd.runtimeconfig.dev.json
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\QueuesGeneratorBackEnd.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\QueuesGeneratorBackEnd.pdb
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\obj\Debug\netcoreapp3.1\QueuesGeneratorBackEnd.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\obj\Debug\netcoreapp3.1\QueuesGeneratorBackEnd.pdb
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\obj\Debug\netcoreapp3.1\QueuesGeneratorBackEnd.genruntimeconfig.cache
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\DAL.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Models.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Models.pdb
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\obj\Debug\netcoreapp3.1\QueuesGeneratorBackEnd.csproj.CopyComplete
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\obj\Debug\netcoreapp3.1\QueuesGeneratorBackEnd.csproj.CoreCompileInputs.cache
+D:\Hermes\9-2020\Queues Generator Tool\QueuesGeneratorBackEnd\QueuesGeneratorBackEnd\obj\Debug\netcoreapp3.1\QueuesGeneratorBackEnd.MvcApplicationPartsAssemblyInfo.cache
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\appsettings.json
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\QueuesGeneratorBackEnd.exe
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\QueuesGeneratorBackEnd.deps.json
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\QueuesGeneratorBackEnd.runtimeconfig.json
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\QueuesGeneratorBackEnd.runtimeconfig.dev.json
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\QueuesGeneratorBackEnd.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\QueuesGeneratorBackEnd.pdb
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\DAL.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Models.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\bin\Debug\netcoreapp3.1\Models.pdb
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\obj\Debug\netcoreapp3.1\QueuesGeneratorBackEnd.csprojAssemblyReference.cache
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\obj\Debug\netcoreapp3.1\QueuesGeneratorBackEnd.AssemblyInfoInputs.cache
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\obj\Debug\netcoreapp3.1\QueuesGeneratorBackEnd.AssemblyInfo.cs
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\obj\Debug\netcoreapp3.1\QueuesGeneratorBackEnd.csproj.CoreCompileInputs.cache
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\obj\Debug\netcoreapp3.1\QueuesGeneratorBackEnd.MvcApplicationPartsAssemblyInfo.cache
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\obj\Debug\netcoreapp3.1\staticwebassets\QueuesGeneratorBackEnd.StaticWebAssets.Manifest.cache
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\obj\Debug\netcoreapp3.1\staticwebassets\QueuesGeneratorBackEnd.StaticWebAssets.xml
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\obj\Debug\netcoreapp3.1\scopedcss\bundle\QueuesGeneratorBackEnd.styles.css
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\obj\Debug\netcoreapp3.1\QueuesGeneratorBackEnd.RazorTargetAssemblyInfo.cache
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\obj\Debug\netcoreapp3.1\QueuesGeneratorBackEnd.csproj.CopyComplete
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\obj\Debug\netcoreapp3.1\QueuesGeneratorBackEnd.dll
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\obj\Debug\netcoreapp3.1\QueuesGeneratorBackEnd.pdb
+D:\EagleEye\EagleEyeBackEnd\QueuesGeneratorBackEnd\obj\Debug\netcoreapp3.1\QueuesGeneratorBackEnd.genruntimeconfig.cache
